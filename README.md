@@ -12,3 +12,15 @@ If you want to see how works my project, <a href="https://photos.app.goo.gl/3k32
 If you want to install the APK, <a href="https://photos.app.goo.gl/Hk29SvbisQA2CKS89">you can see this video</a>
 
 Later I'll make changes to do the code simplest and efficientst
+
+# Clone repository
+To clone this repository, you need to run this command because the paths are too long
+```bash
+git config --global core.longpaths true
+```
+
+# Add files with Git
+To add files in this project with Git, you need to run this command because the paths are too long
+```bash
+git clone -c core.longpaths=true <repo-url>
+```
