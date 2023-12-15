@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jesus/Desktop/ArchivosDelSistema_Vocafe12/Codigo_AndroidStudio/Vocafe12/app/src/main/res/layout/activity_agregar_producto.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" value="0.227" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.227" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/drawable/button_rounded.xml" value="0.243" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/drawable/ic_launcher_background.xml" value="0.227" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/drawable/side_nav_bar.xml" value="0.227" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_agregar_producto.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_bloquear_clientes.xml" value="0.2635897435897436" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_buscar_producto.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_cliente_empleado.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_crearcuenta_clientes.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_crearcuenta_empleado.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_desbloquear_clientes.xml" value="0.2635897435897436" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_descripcion.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_deshabilitar_productos.xml" value="0.2635897435897436" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_detalle_pedidos_pendientes.xml" value="0.2" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_detalle_pedidos_venta.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_detalles_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_detalles_pp.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_eliminar_producto.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_habilitar_productos.xml" value="0.2635897435897436" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_hacer_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_iniciosesion_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_iniciosesion_empleados.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_intervalo_fechas.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_lista_carrito.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_menu_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_menu_comida.xml" value="0.2" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_menu_empleados.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_modificar_producto.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_pedido_completado.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_pedidos_pendientes.xml" value="0.2" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_ventas_pedidos.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_ver_pp.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/activity_visualizar_productos.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/agregarproducto.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/app_bar_menu_empleados.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/cliente_empleado.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/content_menu_empleados.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/crearcuenta_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/crearcuenta_empleado.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/fragment_gallery.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/fragment_menu.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/fragment_slideshow.xml" value="0.2151268115942029" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/iniciosesion_clientes.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_bloquearclientes.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_carrito.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_comidapedido.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_desbloquearclientes.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_detalle_pedidos_venta.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_detallepp.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_detallespp.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_menucomida.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_pedidospendientes.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_productos.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_productosdeshabilitados.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_productoshabilitados.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_ventaspedidos.xml" value="0.25" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/item_verpp.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/nav_header_menu_empleados.xml" value="0.33" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/layout/spinner_item.xml" value="0.1560792349726776" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Users/jesus/Desktop/Vocafe12/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2085" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

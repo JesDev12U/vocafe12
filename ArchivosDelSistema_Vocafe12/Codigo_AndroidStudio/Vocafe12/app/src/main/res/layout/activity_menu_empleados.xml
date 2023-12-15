@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MenuEmpleados">
+
+    <ScrollView
+        android:layout_width="369dp"
+        android:layout_height="723dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.489"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/logovocafe12" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="70dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="16dp"
+                android:text="Menú de empleados"
+                android:textSize="24sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="100dp"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="20dp"
+                android:text="Hola"
+                android:textSize="20sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+            <TextView
+                android:id="@+id/textViewNombreE"
+                android:layout_width="134dp"
+                android:layout_height="27dp"
+                android:layout_marginStart="150dp"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="-27dp"
+                android:layout_marginEnd="80dp"
+                android:layout_marginRight="80dp"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="Selecciona la opción que deseas ver"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/imageView8" />
+
+            <Button
+                android:id="@+id/btnAgregarProducto"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="40dp"
+                android:text="Agregar producto" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="71dp"
+                android:layout_height="77dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="-70dp"
+                app:srcCompat="@drawable/logo_agregarproducto" />
+
+            <Button
+                android:id="@+id/btnModificarProductoMenu"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="40dp"
+                android:text="Modificar producto" />
+
+            <Button
+                android:id="@+id/btnEliminarProducto"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="30dp"
+                android:text="Eliminar producto"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.034" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="72dp"
+                android:layout_height="83dp"
+                android:layout_marginStart="25dp"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="-150dp"
+                app:srcCompat="@drawable/editar_logo" />
+
+            <Button
+                android:id="@+id/btnCerrarSesion"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="880dp"
+                android:text="Cerrar sesión" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="71dp"
+                android:layout_height="88dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="-920dp"
+                app:srcCompat="@drawable/logo_eliminar" />
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="88dp"
+                android:layout_height="79dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="0dp"
+                app:srcCompat="@drawable/logo_visualizar" />
+
+            <Button
+                android:id="@+id/btnVerProductos"
+                android:layout_width="226dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-70dp"
+                android:text="Visualizar productos" />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="112dp"
+                android:layout_height="122dp"
+                android:layout_marginTop="450dp"
+                app:srcCompat="@drawable/pedidospendientes_logo" />
+
+            <Button
+                android:id="@+id/btnVerPPS"
+                android:layout_width="226dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-100dp"
+                android:text="Ver los Pedidos pendientes" />
+
+            <ImageView
+                android:id="@+id/imageView28"
+                android:layout_width="116dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="50dp"
+                app:srcCompat="@drawable/ventas_logo" />
+
+            <Button
+                android:id="@+id/btnConsultarVentas"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-100dp"
+                android:text="Consultar ventas" />
+
+            <ImageView
+                android:id="@+id/imageView29"
+                android:layout_width="105dp"
+                android:layout_height="52dp"
+                android:layout_marginTop="-350dp"
+                app:srcCompat="@drawable/deshabilitarproductos" />
+
+            <Button
+                android:id="@+id/btnDeshabilitarP"
+                android:layout_width="226dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-50dp"
+                android:text="Deshabilitar productos" />
+
+            <ImageView
+                android:id="@+id/imageView30"
+                android:layout_width="106dp"
+                android:layout_height="67dp"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/habilitarproductos" />
+
+            <Button
+                android:id="@+id/btnHabilitarProductos"
+                android:layout_width="226dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-60dp"
+                android:text="Habilitar productos" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="73dp"
+                android:layout_height="87dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="300dp"
+                app:srcCompat="@drawable/logo_cerrarsesion" />
+
+            <ImageView
+                android:id="@+id/imageView31"
+                android:layout_width="107dp"
+                android:layout_height="111dp"
+                android:layout_marginTop="-780dp"
+                app:srcCompat="@drawable/bloqueo_logo" />
+
+            <Button
+                android:id="@+id/btnBloquearClientes"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-70dp"
+                android:text="Bloquear clientes" />
+
+            <ImageView
+                android:id="@+id/imageView32"
+                android:layout_width="108dp"
+                android:layout_height="139dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/desbloqueo_logo" />
+
+            <Button
+                android:id="@+id/btnDesbloquearClientes"
+                android:layout_width="226dp"
+                android:layout_height="49dp"
+                android:layout_marginStart="120dp"
+                android:layout_marginLeft="120dp"
+                android:layout_marginTop="-80dp"
+                android:text="Desbloquear clientes" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
